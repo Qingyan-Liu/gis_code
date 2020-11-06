@@ -7,3 +7,5 @@ y<- 2+2
 sss
 
 kamen rider
+
+ultraman
